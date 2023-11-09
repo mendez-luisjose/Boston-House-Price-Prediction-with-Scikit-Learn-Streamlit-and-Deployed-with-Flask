@@ -2,9 +2,9 @@
 
 ![](./preview/preview-1.gif)
 
-## House Price Prediction with Scikit Learn, Numpy, Pandas, Streamlit and Deployed with Flask 
+## Boston House Price Prediction with Scikit Learn, Numpy, Pandas, Streamlit and Deployed with Flask 
 
-The Model was trained with Tabular House Prices Dataset and with the `XGBRegressor` Architecture. The Model predicts the Price of a given Boston House, also the U.I. to select the parameters of the House was built with Streamlit and the API with Flask. 
+The Model was trained with Tabular Boston House Prices Dataset and with the `XGBRegressor` Architecture. The Model predicts the Price of a given Boston House, also the U.I. to select the parameters of the House was built with Streamlit and the API with Flask. 
 
 ## Run it Locally
 
