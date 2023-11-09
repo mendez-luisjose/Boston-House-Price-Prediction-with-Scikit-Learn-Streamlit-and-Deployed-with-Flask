@@ -15,7 +15,7 @@ Test it Locally by running the `app.py` file, built with `Streamlit`, and the `a
 streamlit run app.py
 ```
 
-## Deployed with Flash
+## Deployed with Flask
 ```sh
 python3 api.py
 ```
